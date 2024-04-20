@@ -21,7 +21,7 @@ export default async function Login() {
       <div className={classes.heroImg}>
         <Link href="/">
           <Image
-            src="/logo-black.svg"
+            src="/4321-logo-black.svg"
             alt="logo"
             width={250}
             height={23}
