@@ -24,7 +24,7 @@
   "dependencies": {
     "@payloadcms/bundler-webpack": "^1.0.0",
     "@payloadcms/db-mongodb": "^1.0.0",
-    "@payloadcms/plugin-cloud": "^3.0.0",
+    "@payloadcms/plugin-cloud": "^2.2.6",
     "@payloadcms/plugin-nested-docs": "^1.0.8",
     "@payloadcms/plugin-redirects": "^1.0.0",
     "@payloadcms/plugin-seo": "^1.0.10",
@@ -67,7 +67,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-simple-import-sort": "^10.0.0",
-    "nodemon": "^2.0.22",
+    "nodemon": "^3.1.0",
     "prettier": "^2.7.1",
     "slate": "0.91.4",
     "ts-node": "10.9.1",
